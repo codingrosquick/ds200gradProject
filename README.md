@@ -21,7 +21,7 @@ Links to be put here ...
 - [x] Define the datas to start the baseline analysis on
 - [] EDA to be started for the baseline analysis
 - [] WHO world -> correlation analysis: attributable death toll VS pollutants, model?
-- [] find a dataset to correlate course dataset & health!
+- [] find a dataset to correlate course dataset (USA levels of pollutants) & health! (attributable health risks from pollutants, in the USA)
 
 
 
