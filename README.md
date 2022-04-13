@@ -16,10 +16,17 @@ Links to be put here ...
 # TODOLIST
 
 - [x] Define clearly all objectives
-- [] Take input raw data here
+- [x] Take input raw data here
 - [x] Create Google Drive file to access csv without commit to Github
-- [] Define the datas to start the baseline analysis on  
+- [x] Define the datas to start the baseline analysis on
 - [] EDA to be started for the baseline analysis
+- [] WHO world -> correlation analysis: attributable death toll VS pollutants, model?
+- [] find a dataset to correlate course dataset & health!
+
+
+
+
+
 
 # Objectives & Questions to explore
 
