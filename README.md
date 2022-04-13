@@ -10,6 +10,9 @@ Work google document: https://docs.google.com/document/d/1SN4tjZt_ePB4HGrP_0UQjj
 
 Final report: TBD
 
+# Project baseline file
+https://docs.google.com/document/d/1SN4tjZt_ePB4HGrP_0UQjjFaDsw9bUJOI9bGJ1MJ5wE/edit?skip_itp2_check=true#heading=h.xfta3gcl8tk8 
+
 # Data sources
 Links to be put here ...
 
