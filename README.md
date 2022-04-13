@@ -12,3 +12,16 @@ Final report: TBD
 # Data sources
 Links to be put here ...
 
+# TODOLIST
+
+- Take input raw data here
+- Define clearly all objectives
+- EDA to be started
+
+# Objectives & Questions to explore
+
+
+
+
+
+
