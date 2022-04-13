@@ -15,10 +15,11 @@ Links to be put here ...
 
 # TODOLIST
 
-- Take input raw data here              TODO
-- Define clearly all objectives         OK
-- Define the datas to start the baseline analysis on  
-- EDA to be started for the baseline analysis
+[x] Define clearly all objectives         OK
+[] Take input raw data here              TODO
+[] Create Google Drive file to access csv without commit to Github
+[] Define the datas to start the baseline analysis on  
+[] EDA to be started for the baseline analysis
 
 # Objectives & Questions to explore
 
