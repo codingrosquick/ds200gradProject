@@ -10,16 +10,26 @@ Work google document: https://docs.google.com/document/d/1SN4tjZt_ePB4HGrP_0UQjj
 
 Final report: TBD
 
+# Project baseline file
+https://docs.google.com/document/d/1SN4tjZt_ePB4HGrP_0UQjjFaDsw9bUJOI9bGJ1MJ5wE/edit?skip_itp2_check=true#heading=h.xfta3gcl8tk8 
+
 # Data sources
 Links to be put here ...
 
 # TODOLIST
 
 - [x] Define clearly all objectives
-- [] Take input raw data here
+- [x] Take input raw data here
 - [x] Create Google Drive file to access csv without commit to Github
-- [] Define the datas to start the baseline analysis on  
+- [x] Define the datas to start the baseline analysis on
 - [] EDA to be started for the baseline analysis
+- [] WHO world -> correlation analysis: attributable death toll VS pollutants, model?
+- [] find a dataset to correlate course dataset (USA levels of pollutants) & health! (attributable health risks from pollutants, in the USA)
+
+
+
+
+
 
 # Objectives & Questions to explore
 
