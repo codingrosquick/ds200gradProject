@@ -27,6 +27,13 @@ Links to be put here ...
 - [] find a dataset to correlate course dataset (USA levels of pollutants) & health! (attributable health risks from pollutants, in the USA)
 
 
+# Aymeric's TODO LIST
+
+- [x] Download PM2.5 dataset of the CDC from 2001 to 2016
+- [x] Download AQI datasets of the EPA from 2001 to 2016 (16 datasets)
+- [] Merge 16 datasets into one Table
+- [] Clean them
+- [] Create a correlation of PM2.5/AQI on
 
 
 
