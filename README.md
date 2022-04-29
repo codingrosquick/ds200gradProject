@@ -31,10 +31,11 @@ Links to be put here ...
 
 - [x] Download PM2.5 dataset of the CDC from 2001 to 2016
 - [x] Download AQI datasets of the EPA from 2001 to 2016 (16 datasets)
-- [] Merge 16 datasets into one Table
-- [] Clean them
-- [] Create a correlation of PM2.5/AQI on
+- [x] Merge 16 datasets into one Table
+- [x] Clean them
+- [x] Create a correlation of PM2.5/AQI on
 
+THIS SUCKS THERE IS NO CORRELATION AT ALL! WE NEED TO FIND SOMETHING ELSE!!!
 
 
 
@@ -52,8 +53,14 @@ An additional related question could be studied if time permits it:
 - We would infer their impact on health depending on the different GIEC scenarios, using the relation between health risks and AQIs drawn in the first part.
 
 
+# Reference to understand PM2.5
+
+https://planning.lacity.org/eir/Harvard_WestLake/deir/Chapters/3.2_Air_Quality.pdf
+https://www.pca.state.mn.us/air/about-air-quality-data
 
 
+# First draft criteria
 
+https://docs.google.com/document/d/11Kq5o7NAg-VgOHsntYOOiP0xsFyWW_ruimYIFQYtZnQ/edit?skip_itp2_check=true
 
 
