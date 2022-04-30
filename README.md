@@ -8,37 +8,6 @@ Members:
 # External documents
 Work google document: https://docs.google.com/document/d/1SN4tjZt_ePB4HGrP_0UQjjFaDsw9bUJOI9bGJ1MJ5wE/edit#heading=h.xfta3gcl8tk8
 
-Final report: TBD
-
-# Project baseline file
-https://docs.google.com/document/d/1SN4tjZt_ePB4HGrP_0UQjjFaDsw9bUJOI9bGJ1MJ5wE/edit?skip_itp2_check=true#heading=h.xfta3gcl8tk8 
-
-# Data sources
-Links to be put here ...
-
-# TODOLIST
-
-- [x] Define clearly all objectives
-- [x] Take input raw data here
-- [x] Create Google Drive file to access csv without commit to Github
-- [x] Define the datas to start the baseline analysis on
-- [] EDA to be started for the baseline analysis
-- [] WHO world -> correlation analysis: attributable death toll VS pollutants, model?
-- [] find a dataset to correlate course dataset (USA levels of pollutants) & health! (attributable health risks from pollutants, in the USA)
-
-
-# Aymeric's TODO LIST
-
-- [x] Download PM2.5 dataset of the CDC from 2001 to 2016
-- [x] Download AQI datasets of the EPA from 2001 to 2016 (16 datasets)
-- [x] Merge 16 datasets into one Table
-- [x] Clean them
-- [x] Create a correlation of PM2.5/AQI on
-
-THIS SUCKS THERE IS NO CORRELATION AT ALL! WE NEED TO FIND SOMETHING ELSE!!!
-
-
-
 # Objectives & Questions to explore
 
 Baseline analysis:
