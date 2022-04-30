@@ -2,6 +2,7 @@ TODOLIST 29 Avril
 
 WHO death rates
 - More analysis of different illnesses, groups
+- Make a simple model that does predictions
 - improving the total/both case log-log correlation
 
 AQI vs PM25
@@ -11,6 +12,7 @@ Gas emitters link
 - add and process PM25 data US
 - joining tables
 - correlations analysis and visualisations
+- model predictions
 
 Visualisation
 - US heatmap by county -> death tolls
@@ -20,3 +22,10 @@ Report
 - write the report with references etc
 - drawings miro for the report
 - clean github repository
+
+
+
+
+
+Note: citations suggested sometimes available
+    Suggested citation: Centers for Disease Control and Prevention. National Environmental Public Health Tracking Network. Web. Accessed: insert date. www.cdc.gov/ephtracking.
