@@ -6,11 +6,14 @@ WHO death rates
 - improving the total/both case log-log correlation
 
 AQI vs PM25
-- correlation possible?
+- correlation possible? -> seems like no
 
 Gas emitters link
-- add and process PM25 data US
+#- add and process PM25 data US
 - joining tables
+    -> change the index
+    -> Explains why taking this index
+    -> join tables
 - correlations analysis and visualisations
 - model predictions
 
